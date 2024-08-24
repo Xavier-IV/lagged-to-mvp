@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://github.com/user-attachments/assets/a628eb55-b7d8-4351-84e1-2722ddc0d7b9" width="40%"  />
+    <img src="https://github.com/user-attachments/assets/938d8206-f29a-474a-b058-347629e89459" width="40%"  />
   <br/>
   <br/>
   <strong>Lagged to MVP</strong>
