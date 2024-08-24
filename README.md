@@ -101,3 +101,11 @@ Whenever you're attracted to new fancy tools, keep your eyes on the wheel. MVP.
 *When to revisit*: Most likely you won't need to pivot your tools, except for costs, security, resources, support and end-of-life tools. 
 
 *What to use for now*: Whatever framework/tools you used at first, hold that itch.
+
+## Early Refactoring
+
+I did this a lot of time personally. Refactoring stuff that works great already. What a great engineer I am right? But I still have 0 users.
+
+*When to revisit*: Ideally, when your codebase grew. Or when the repeatition outgrew you.
+
+*What to use for now*: Whatever bad codes you wrote, just use it. As you continue writing code, learn some good code practice as well. Don't fix bad tyre with bad tyre.
