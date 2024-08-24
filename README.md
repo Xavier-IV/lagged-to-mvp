@@ -16,6 +16,8 @@
 
 <p align="center">
   Open for contributions!
+  <br/><br/>
+  <em>See also <a href="https://github.com/Xavier-IV/rapid-to-mvp">Rapid to MVP</a></em>
 </p>
 
 <br/>
